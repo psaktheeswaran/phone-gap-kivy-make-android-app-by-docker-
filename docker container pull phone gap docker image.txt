@@ -2,3 +2,26 @@ docker pull criticalblue/phonegap
 docker pull phonegapbuild/weinre
 docker pull phonegap/phonegap-desktop-server
 docker pull webratio/phonegap
+
+kivy
+
+https://hub.docker.com/r/kivy/buildozer
+
+docker pull kivy/python-for-android
+
+ros
+
+https://hub.docker.com/_/ros
+
+https://hub.docker.com/r/osrf/ros
+
+
+docker pull osrf/ros
+
+
+https://hub.docker.com/r/osrf/ros_legacy
+
+docker pull osrf/ros_legacy
+https://hub.docker.com/r/webratio/phonegap
+
+docker pull webratio/phonegap
